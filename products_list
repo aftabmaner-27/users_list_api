@@ -1,0 +1,19 @@
+{
+    "StatusCode": "Success",
+    "Result": {
+        "Products": [
+            {
+                "prodcutname": "john_doe",
+                "price": 32
+            },
+            {
+                "prodcutname": "jane_smith",
+                "price": 28
+            },
+            {
+                "prodcutname": "mike_jones",
+                "price": 35
+            }
+        ]
+    }
+}
