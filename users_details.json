@@ -1,0 +1,133 @@
+{
+    "StatusCode": "Success",
+    "Result": {
+        "users": [
+            {
+                "username": "john_doe",
+                "age": 32,
+                "address": "123 Main St",
+                "city": "New York"
+            },
+            {
+                "username": "jane_smith",
+                "age": 28,
+                "address": "456 Elm St",
+                "city": "Los Angeles"
+            },
+            {
+                "username": "mike_jones",
+                "age": 35,
+                "address": "789 Oak St",
+                "city": "Chicago"
+            },
+            {
+                "username": "emily_wilson",
+                "age": 30,
+                "address": "101 Pine St",
+                "city": "San Francisco"
+            },
+            {
+                "username": "alex_hernandez",
+                "age": 40,
+                "address": "222 Cedar St",
+                "city": "Miami"
+            },
+            {
+                "username": "sarah_adams",
+                "age": 25,
+                "address": "333 Birch St",
+                "city": "Seattle"
+            },
+            {
+                "username": "david_brown",
+                "age": 38,
+                "address": "444 Maple St",
+                "city": "Boston"
+            },
+            {
+                "username": "lisa_nguyen",
+                "age": 27,
+                "address": "555 Walnut St",
+                "city": "Houston"
+            },
+            {
+                "username": "kevin_kim",
+                "age": 29,
+                "address": "666 Cherry St",
+                "city": "Atlanta"
+            },
+            {
+                "username": "olivia_garcia",
+                "age": 33,
+                "address": "777 Pineapple St",
+                "city": "Denver"
+            },
+            {
+                "username": "ryan_clark",
+                "age": 31,
+                "address": "888 Peach St",
+                "city": "Phoenix"
+            },
+            {
+                "username": "jennifer_miller",
+                "age": 34,
+                "address": "999 Lemon St",
+                "city": "Philadelphia"
+            },
+            {
+                "username": "brian_lee",
+                "age": 26,
+                "address": "000 Grape St",
+                "city": "Dallas"
+            },
+            {
+                "username": "amanda_rodriguez",
+                "age": 37,
+                "address": "111 Orange St",
+                "city": "San Diego"
+            },
+            {
+                "username": "jason_wang",
+                "age": 36,
+                "address": "222 Banana St",
+                "city": "Detroit"
+            },
+            {
+                "username": "melissa_martinez",
+                "age": 24,
+                "address": "333 Watermelon St",
+                "city": "Minneapolis"
+            },
+            {
+                "username": "chris_white",
+                "age": 39,
+                "address": "444 Tomato St",
+                "city": "Orlando"
+            },
+            {
+                "username": "samantha_taylor",
+                "age": 23,
+                "address": "555 Blueberry St",
+                "city": "Portland"
+            },
+            {
+                "username": "justin_scott",
+                "age": 41,
+                "address": "666 Raspberry St",
+                "city": "Austin"
+            },
+            {
+                "username": "stephanie_thomas",
+                "age": 22,
+                "address": "777 Avocado St",
+                "city": "Charlotte"
+            },
+            {
+                "username": "eric_anderson",
+                "age": 42,
+                "address": "888 Mango St",
+                "city": "San Antonio"
+            }
+        ]
+    }
+}
